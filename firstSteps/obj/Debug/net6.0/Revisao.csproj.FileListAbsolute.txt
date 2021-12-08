@@ -1,0 +1,15 @@
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\bin\Debug\net6.0\Revisao.exe
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\bin\Debug\net6.0\Revisao.deps.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\bin\Debug\net6.0\Revisao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\bin\Debug\net6.0\Revisao.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\examples\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
