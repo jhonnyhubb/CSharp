@@ -1,5 +1,7 @@
 ﻿using System;
+using ExemploPOO.Helpers;
 using ExemploPOO.Models;
+using ExemploPOO.Models.Interfaces;
 
 namespace ExemploPOO
 {
@@ -7,9 +9,43 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
+            
+             
+            var caminho = "D:\\Users\\Jonas\\Documents\\programação\\Desenvolvedor-Back-End\\C#";
+            var caminhoArquivo = Path.Combine(caminho, "arquivo2.txt");
+            var novoCaminho = Path.Combine(caminho, "pasta2", "arquivo2.txt");
+            var caminhoDiretorio = Path.Combine(caminho, "pasta2");
+            var listaString = new List<string> {"linha 1", "linha 2", "linha 3", "linha 4"};
+            var listaString1 = new List<string> {"linha 5", "linha 6", "linha 7", "linha 8"};
+            
+            FileHelper helper = new FileHelper();
 
-            Computador comp = new Computador();
-            System.Console.WriteLine(comp.ToString());
+            helper.DeletarArquivo(caminhoArquivo);
+            helper.DeletarArquivo(novoCaminho);
+            Directory.Delete(caminhoDiretorio);
+
+            // helper.CopiarArquivo(novoCaminho, caminhoArquivo, false);
+
+            // helper.CriarDiretorio(novoCaminho);
+            // helper.MoverArquivo(caminhoArquivo, novoCaminho);
+
+            // helper.LerArquivoStream(caminhoArquivo);
+
+            // helper.CriarArquivoTextoStream(caminhoArquivo, listaString);
+            // helper.AdicionarTextoStream(caminhoArquivo, listaString1);
+
+            // helper.CriarArquivoTexto(caminhoArquivo, "oi estou testando a criação de um arquivo texto");
+
+            // helper.ApagarDiretorio(caminhoPathCombine, true);
+            // System.Console.WriteLine("Criando diretório: " + caminhoPathCombine);
+            
+
+            // ICalculadora calc = new Calculadora();
+            // System.Console.WriteLine(calc.Multiplicar(10,20));
+
+            // Computador comp = new Computador();
+            // System.Console.WriteLine(comp.ToString());
+
             // Corrente c = new Corrente();
             // c.Creditar(100);
             // c.ExibirSaldo();
