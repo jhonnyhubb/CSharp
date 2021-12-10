@@ -1,0 +1,15 @@
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\bin\Debug\net6.0\Quadrado.de.pares.exe
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\bin\Debug\net6.0\Quadrado.de.pares.deps.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\bin\Debug\net6.0\Quadrado.de.pares.runtimeconfig.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\bin\Debug\net6.0\Quadrado.de.pares.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\bin\Debug\net6.0\ref\Quadrado.de.pares.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\bin\Debug\net6.0\Quadrado.de.pares.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.csproj.AssemblyReference.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.AssemblyInfoInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.AssemblyInfo.cs
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.csproj.CoreCompileInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\ref\Quadrado.de.pares.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Quadrado.de.pares\obj\Debug\net6.0\Quadrado.de.pares.genruntimeconfig.cache
