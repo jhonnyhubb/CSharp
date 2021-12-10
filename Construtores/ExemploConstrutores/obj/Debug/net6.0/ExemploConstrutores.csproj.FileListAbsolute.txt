@@ -1,0 +1,15 @@
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
