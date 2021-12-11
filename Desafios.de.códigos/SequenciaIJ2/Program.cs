@@ -1,21 +1,4 @@
-﻿// using System; 
-
-// class DIO {
-
-//     static void Main(string[] args) { 
-
-//        for(           )
-//             {
-//                 for(        )    //escreva seu código nos espaços em branco
-//                 {
-//                     Console.WriteLine(       );
-//                 }
-//             }
-//     }
-
-// }
-
-using System;
+﻿using System;
 class DIO//FEITO
 {
     static void Main(string[] args)

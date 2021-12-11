@@ -1,23 +1,4 @@
-﻿// using System; 
-
-// class DIO {
-
-//     static void Main(string[] args) { 
-
-//       double a, c, S= 0;
-//             for (      )
-//             {
-//                 c =           ;  //coloque a sua lógica nos espaços em branco
-//                 S +=        ;
-//             }
-//             var x=Math.Round(S,2);
-//             Console.WriteLine(      );
-
-//     }
-
-// }
-
-using System;
+﻿using System;
 class DIO //FEITO
 {
     static void Main(string[] args)
