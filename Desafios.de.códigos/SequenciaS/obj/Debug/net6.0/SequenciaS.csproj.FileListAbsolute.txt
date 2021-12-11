@@ -1,0 +1,15 @@
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\bin\Debug\net6.0\SequenciaS.exe
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\bin\Debug\net6.0\SequenciaS.deps.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\bin\Debug\net6.0\SequenciaS.runtimeconfig.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\bin\Debug\net6.0\SequenciaS.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\bin\Debug\net6.0\ref\SequenciaS.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\bin\Debug\net6.0\SequenciaS.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.csproj.AssemblyReference.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.AssemblyInfoInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.AssemblyInfo.cs
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.csproj.CoreCompileInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\ref\SequenciaS.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\SequenciaS\obj\Debug\net6.0\SequenciaS.genruntimeconfig.cache

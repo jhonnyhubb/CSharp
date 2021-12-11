@@ -1,0 +1,15 @@
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.AssemblyReference.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfoInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfo.cs
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.CoreCompileInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\bin\Debug\net6.0\Xenlongao.exe
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\bin\Debug\net6.0\Xenlongao.deps.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\bin\Debug\net6.0\Xenlongao.runtimeconfig.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\bin\Debug\net6.0\Xenlongao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\bin\Debug\net6.0\ref\Xenlongao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\bin\Debug\net6.0\Xenlongao.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\ref\Xenlongao.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\Desafios.de.códigos\Xenlongao\obj\Debug\net6.0\Xenlongao.genruntimeconfig.cache
