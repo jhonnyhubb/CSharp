@@ -1,0 +1,15 @@
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\bin\Debug\net6.0\collections.exe
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\bin\Debug\net6.0\collections.deps.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\bin\Debug\net6.0\collections.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\bin\Debug\net6.0\ref\collections.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\bin\Debug\net6.0\collections.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\ref\collections.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\CollectionEssentialsAndLINQWithDotNET\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
