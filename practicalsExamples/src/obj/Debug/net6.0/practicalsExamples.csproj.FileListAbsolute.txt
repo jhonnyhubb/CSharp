@@ -1,0 +1,15 @@
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\bin\Debug\net6.0\practicalsExamples.exe
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\bin\Debug\net6.0\practicalsExamples.deps.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\bin\Debug\net6.0\practicalsExamples.runtimeconfig.json
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\bin\Debug\net6.0\practicalsExamples.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\bin\Debug\net6.0\ref\practicalsExamples.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\bin\Debug\net6.0\practicalsExamples.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.csproj.AssemblyReference.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.AssemblyInfoInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.AssemblyInfo.cs
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.csproj.CoreCompileInputs.cache
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\ref\practicalsExamples.dll
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.pdb
+D:\Users\Jonas\Documents\programação\Desenvolvedor-Back-End\C#\Csharp\practicalsExamples\src\obj\Debug\net6.0\practicalsExamples.genruntimeconfig.cache

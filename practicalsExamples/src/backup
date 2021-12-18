@@ -1,0 +1,25 @@
+using System;
+
+namespace POO
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //name, health point, mana point, class
+            string name = "Arus";
+            int health = 100;
+            int mana = 30;
+            string classPerson = "warrior";
+
+            string name1 = "Weddy";
+            int health1 = 100;
+            int mana1 = 200;
+            string classPerson1 = "mage";
+
+            Console.WriteLine($"the name of the hero is {name} with {health} health points, {mana} mana points and class:{classPerson}");
+
+            System.Console.WriteLine($"the name of the hero is {name1} with {health1} health points, {mana1} mana points and class:{classPerson1}");
+        }
+    }
+}
